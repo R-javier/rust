@@ -12,7 +12,7 @@ html{
 }
 
 .contenedor-1-img{
-    background-image:url(/fondo-opaco.jpg);
+    background-image:url(asset/fondo-opaco.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size:100%;
@@ -121,7 +121,7 @@ html{
 }
 
 .contenedor-imagen-fondo{ 
-    background-image: url(/1-a.jpg);
+    background-image: url(asset/1-a.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -134,7 +134,7 @@ html{
 }
 
 .contenedor-imagen-fondo .img-fondo{
-    background-image: url(/1.jpg);
+    background-image: url(asset/1.jpg);
     filter:  brightness(100%);
     background-repeat: no-repeat;
     background-position: center;
@@ -227,7 +227,7 @@ html{
     justify-content: flex-start;
     align-items: center;
     padding:20px;
-    background-image: url(/facepunch.png);
+    background-image: url(asset/facepunch.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -474,7 +474,7 @@ html{
 
 
 .section-form{
-    background:url(//rust-newsletter.jpg);
+    background:url(/asset/rust-newsletter.jpg);
     background-size: 194%;
     background-position: center;
     height:70vh;
