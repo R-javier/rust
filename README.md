@@ -3,4 +3,4 @@ Este fue uno de mis primeros proyectos un clon de la pagina https://rust.facepun
 
 # Tecnologías Utilizadas
 - HTML
-- Css
+- CSS
